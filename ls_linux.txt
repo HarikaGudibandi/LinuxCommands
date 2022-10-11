@@ -1,0 +1,9 @@
+Command : LS
+		Lists files and directories within a system
+Opitions :
+		==> -R lists all the files in the subdirectories.
+		==> -a shows hidden files in addition to the visible ones.
+		==> -lh shows the file sizes in easily readable formats, such as MB, GB, and TB.
+Syntax : ls
+Example : ls
+Output : sum.c sub.c
