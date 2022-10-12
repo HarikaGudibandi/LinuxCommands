@@ -1,0 +1,9 @@
+Command : TAR
+		Archives multiple files 
+Syntax : 
+		tar [options] [archive_file] [file or directory to be archived]
+Opitions : 
+		==> -x : extracts a file.
+		==> -t : lists the content of a file.
+		==> -u : archives and adds to an existing archive file.
+Example :

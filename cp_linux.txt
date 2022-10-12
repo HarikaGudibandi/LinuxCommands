@@ -1,0 +1,4 @@
+Command : CP
+         copy the content from one file to another file.
+Syntax : cp present_file new_file
+Example : 

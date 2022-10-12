@@ -1,0 +1,9 @@
+Command : CHMOD
+      	Modifies a file or directory’s read, write, and execute permissions.
+            Three user classes – owner, group member, and others.
+Syntax : chmod [option] [permission] [file_name]
+Opitions :
+		==> -c or –changes : displays information when a change is made.
+		==> -f or –silent : suppresses the error messages.
+		==> -v or –verbose : displays a diagnostic for each processed file.
+Example : 

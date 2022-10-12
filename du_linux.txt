@@ -1,0 +1,9 @@
+Command : DU
+	     It checks how much space takes up for a file or directoy.
+Syntax : du [opitions] [file]
+Opitions :
+		==> -s : offers the total size of a specified folder.
+		==> -m : provides folder and file information in MB
+		==> k : displays information in KB.
+		==> -h : informs the last modification date of the displayed folders and files.
+Example :

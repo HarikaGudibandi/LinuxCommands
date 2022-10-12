@@ -1,0 +1,10 @@
+Command : PWD
+	     To find the path of my current directory.
+Syntax : pwd directory_name
+Opitions : 
+	     ==> -L or –logical : prints environment variable content, including symbolic links.
+	     ==> -P or –physical : prints the actual path of the current directory.
+Example :
+     pwd -p : linux/commands
+     pwd -l : linux/commands/pwd
+

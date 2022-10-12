@@ -1,0 +1,13 @@
+Command : MKDIR
+         Create new directory with given name
+Options : 
+		==>-p or -parents : Create a directory between two existing floders.
+		==>-m or -mode : Set file permissions.To create a directory with full read,write and execute.
+		==>-v or -verbose : prints a message for each created directory.
+Syntax : mkdir [option] directory_name
+Example : mkdir linux/commands
+	    mkdir -p linux/1220/commands
+	  
+
+	    
+

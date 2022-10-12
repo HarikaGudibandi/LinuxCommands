@@ -1,0 +1,5 @@
+Command : Cat
+		 It lists, combines, and writes file content to the standard output.
+Syntax : cat filename
+Options:
+	    ==>

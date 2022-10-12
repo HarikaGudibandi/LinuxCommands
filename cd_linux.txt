@@ -1,0 +1,8 @@
+Command : CD
+        To change Directories.
+Syntax : cd Directory_name.
+Opitions :
+ 		==> cd name_of_folder :  goes to another user’s home directory.
+		==> cd .. moves one directory up.
+		==> cd- moves to your previous directory.
+Example : 
