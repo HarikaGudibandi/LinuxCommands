@@ -1,4 +1,5 @@
 Command : mv
 	    Moving and renaming files and directoies.
 Syntax : mv old_filename.txt new_filename.txt
-Examples :  
+Examples : mv abc.txt ABC.txt
+Output : the content in the abc.txt file moved to ABC.txt
